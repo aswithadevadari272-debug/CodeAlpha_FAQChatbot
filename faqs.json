@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return any product within 30 days of delivery as long as it is unused and in its original packaging.",
+    "keywords": "refund policy exchange send back days allowed"
+  },
+  {
+    "question": "How do I return a product?",
+    "answer": "Go to My Orders, select the item, click 'Return', and choose a pickup time. Our courier will collect it from your address.",
+    "keywords": "send back return item product pickup courier give back"
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery takes 3 to 5 business days. Express delivery takes 1 to 2 business days.",
+    "keywords": "delivery arrive arrival when will my order arrive shipping time days how long dispatch"
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "Open My Orders and click 'Track Order'. You will also get a tracking link by email and SMS once your order ships.",
+    "keywords": "track tracking status where is my order shipment"
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit and debit cards, UPI, net banking, popular wallets, and cash on delivery.",
+    "keywords": "pay payment methods upi card credit debit net banking wallet"
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to 10,000 rupees in most pin codes.",
+    "keywords": "cod cash on delivery pay at door"
+  },
+  {
+    "question": "How can I cancel my order?",
+    "answer": "You can cancel from My Orders any time before the order is shipped. After shipping, you can refuse delivery or return it.",
+    "keywords": "cancel cancellation stop order"
+  },
+  {
+    "question": "When will I get my refund?",
+    "answer": "Refunds are processed within 5 to 7 business days after we receive the returned product, back to your original payment method.",
+    "keywords": "refund money back come back amount reimbursement credited"
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click 'Forgot Password' on the login page, enter your registered email, and follow the reset link we send you.",
+    "keywords": "forgot password reset login can't login change password"
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "Click 'Sign Up' at the top right, enter your name, email and phone number, set a password, and verify with the OTP we send.",
+    "keywords": "sign up register new account signup join"
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can email support@example.com or call 1800-123-456 between 9 AM and 6 PM, Monday to Saturday.",
+    "keywords": "contact support help phone number email customer care complaint reach talk speak"
+  },
+  {
+    "question": "Do you ship internationally?",
+    "answer": "Currently we ship only within India. International shipping will be available soon.",
+    "keywords": "international abroad overseas outside country shipping"
+  },
+  {
+    "question": "Is there a warranty on products?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty. The warranty details are listed on each product page.",
+    "keywords": "warranty guarantee repair defect coverage"
+  },
+  {
+    "question": "How do I apply a discount coupon?",
+    "answer": "Enter your coupon code in the 'Apply Coupon' box on the cart page and click Apply. The discount shows before payment.",
+    "keywords": "coupon promo code discount offer voucher"
+  },
+  {
+    "question": "My product arrived damaged, what should I do?",
+    "answer": "We're sorry about that. Report it within 7 days from My Orders with a photo of the damage, and we will replace it or refund you.",
+    "keywords": "damaged broken defective wrong item replacement faulty"
+  }
+]
